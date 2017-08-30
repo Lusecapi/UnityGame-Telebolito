@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 94136264d149b094e988b9781b176588
+timeCreated: 1473283304
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PowerUpsSheets_0
+    21300002: PowerUpsSheets_1
+    21300004: PowerUpsSheets_2
+    21300006: PowerUpsSheets_3
+    21300008: PowerUpsSheets_4
+    21300010: PowerUpsSheets_5
+    21300012: PowerUpsSheets_6
+    21300014: PowerUpsSheets_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PowerUpsSheets_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 573
+        width: 189
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 90}
+        - {x: -12.5, y: 90}
+        - {x: -94.5, y: 37}
+        - {x: -94.5, y: -1}
+        - {x: -61.5, y: -90}
+        - {x: 63.5, y: -90}
+        - {x: 94.5, y: 12}
+        - {x: 94.5, y: 30}
+    - name: PowerUpsSheets_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 573
+        width: 189
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 90}
+        - {x: -12.5, y: 90}
+        - {x: -94.5, y: 37}
+        - {x: -94.5, y: -1}
+        - {x: -61.5, y: -90}
+        - {x: 63.5, y: -90}
+        - {x: 94.5, y: 12}
+        - {x: 94.5, y: 30}
+    - name: PowerUpsSheets_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 573
+        width: 189
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 90}
+        - {x: -12.5, y: 90}
+        - {x: -94.5, y: 37}
+        - {x: -94.5, y: -1}
+        - {x: -61.5, y: -90}
+        - {x: 63.5, y: -90}
+        - {x: 94.5, y: 12}
+        - {x: 94.5, y: 30}
+    - name: PowerUpsSheets_3
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 573
+        width: 189
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 90}
+        - {x: -12.5, y: 90}
+        - {x: -94.5, y: 37}
+        - {x: -94.5, y: -1}
+        - {x: -61.5, y: -90}
+        - {x: 63.5, y: -90}
+        - {x: 94.5, y: 12}
+        - {x: 94.5, y: 30}
+    - name: PowerUpsSheets_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 327
+        width: 189
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 90}
+        - {x: -12.5, y: 90}
+        - {x: -94.5, y: 37}
+        - {x: -94.5, y: -1}
+        - {x: -61.5, y: -90}
+        - {x: 63.5, y: -90}
+        - {x: 94.5, y: 12}
+        - {x: 94.5, y: 30}
+    - name: PowerUpsSheets_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 333
+        width: 189
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 90}
+        - {x: -12.5, y: 90}
+        - {x: -94.5, y: 37}
+        - {x: -94.5, y: -1}
+        - {x: -61.5, y: -90}
+        - {x: 63.5, y: -90}
+        - {x: 94.5, y: 12}
+        - {x: 94.5, y: 30}
+    - name: PowerUpsSheets_6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 333
+        width: 189
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 90}
+        - {x: -12.5, y: 90}
+        - {x: -94.5, y: 37}
+        - {x: -94.5, y: -1}
+        - {x: -61.5, y: -90}
+        - {x: 63.5, y: -90}
+        - {x: 94.5, y: 12}
+        - {x: 94.5, y: 30}
+    - name: PowerUpsSheets_7
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 333
+        width: 189
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 90}
+        - {x: -12.5, y: 90}
+        - {x: -94.5, y: 37}
+        - {x: -94.5, y: -1}
+        - {x: -61.5, y: -90}
+        - {x: 63.5, y: -90}
+        - {x: 94.5, y: 12}
+        - {x: 94.5, y: 30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

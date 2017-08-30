@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 1d5b4f047af2ad44a8f6ce4019b511f4
+timeCreated: 1473360581
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BlackBat
+    21300002: BlueBat
+    21300004: RedBat
+    21300006: VioletBat
+    21300008: BrownBat
+    21300010: YellowBat
+    21300012: PinkBat
+    21300014: OrangeBat
+    21300016: SilverBat
+    21300018: CyanBat
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BlackBat
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 813
+        width: 464
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -229, y: 51}
+        - {x: -232, y: 48}
+        - {x: -232, y: -49}
+        - {x: -231, y: -51}
+        - {x: 232, y: -51}
+        - {x: 232, y: 50}
+        - {x: 230, y: 51}
+    - name: BlueBat
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 813
+        width: 464
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -229, y: 51}
+        - {x: -232, y: 48}
+        - {x: -232, y: -49}
+        - {x: -231, y: -51}
+        - {x: 232, y: -51}
+        - {x: 232, y: 50}
+        - {x: 230, y: 51}
+    - name: RedBat
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 813
+        width: 464
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -229, y: 51}
+        - {x: -232, y: 48}
+        - {x: -232, y: -49}
+        - {x: -231, y: -51}
+        - {x: 232, y: -51}
+        - {x: 232, y: 50}
+        - {x: 230, y: 51}
+    - name: VioletBat
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 613
+        width: 464
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -229, y: 51}
+        - {x: -232, y: 48}
+        - {x: -232, y: -49}
+        - {x: -231, y: -51}
+        - {x: 232, y: -51}
+        - {x: 232, y: 50}
+        - {x: 230, y: 51}
+    - name: BrownBat
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 613
+        width: 464
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -229, y: 51}
+        - {x: -232, y: 48}
+        - {x: -232, y: -49}
+        - {x: -231, y: -51}
+        - {x: 232, y: -51}
+        - {x: 232, y: 50}
+        - {x: 230, y: 51}
+    - name: YellowBat
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 613
+        width: 464
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -229, y: 51}
+        - {x: -232, y: 48}
+        - {x: -232, y: -49}
+        - {x: -231, y: -51}
+        - {x: 232, y: -51}
+        - {x: 232, y: 50}
+        - {x: 230, y: 51}
+    - name: PinkBat
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 359
+        width: 464
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -229, y: 51}
+        - {x: -232, y: 48}
+        - {x: -232, y: -49}
+        - {x: -231, y: -51}
+        - {x: 232, y: -51}
+        - {x: 232, y: 50}
+        - {x: 230, y: 51}
+    - name: OrangeBat
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 359
+        width: 464
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -229, y: 51}
+        - {x: -232, y: 48}
+        - {x: -232, y: -49}
+        - {x: -231, y: -51}
+        - {x: 232, y: -51}
+        - {x: 232, y: 50}
+        - {x: 230, y: 51}
+    - name: SilverBat
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 359
+        width: 464
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -229, y: 51}
+        - {x: -232, y: 48}
+        - {x: -232, y: -49}
+        - {x: -231, y: -51}
+        - {x: 232, y: -51}
+        - {x: 232, y: 50}
+        - {x: 230, y: 51}
+    - name: CyanBat
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 112
+        width: 464
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -229, y: 51}
+        - {x: -232, y: 48}
+        - {x: -232, y: -49}
+        - {x: -231, y: -51}
+        - {x: 232, y: -51}
+        - {x: 232, y: 50}
+        - {x: 230, y: 51}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
